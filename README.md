@@ -5,6 +5,17 @@
   Passionate about AI, Data Science, DevOps, and Cloud Engineering
 </p>
 
+
+![Fadhaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fadhaa&show_icons=true&theme=default)
+
+
+
+
+
+
+
+
+
 ---
 
 ### 📊 JiSt's GitHub Statistics
