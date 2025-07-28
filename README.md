@@ -65,6 +65,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Fadhaa&theme=flat&column=6&no-frame=true&no-bg=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadhaa"/>
+</p>
 ---
 
 ### 📍 You can find me here
