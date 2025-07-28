@@ -52,7 +52,6 @@
 ### 📍 You can find me here
 
 - 🌐 [GlobalStat Intelligence Solutions](https://globalstatsol.com)
-- 📧 Email: [contact@globalstatsol.com](mailto:contact@globalstatsol.com)
 - 💼 LinkedIn: [linkedin.com/in/fadhaa](https://linkedin.com/in/fadhaa)
 
 ---
