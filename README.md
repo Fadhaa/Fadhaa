@@ -5,46 +5,6 @@
   Passionate about AI, Data Science, DevOps, and Cloud Engineering
 </p>
 
-
-![Fadhaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fadhaa&show_icons=true&theme=default)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhaa&layout=compact)
-
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Fadhaa&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fadhaa)
-
-
-
----
-
-### 📊 JiSt's GitHub Statistics
-
-| 📌 Metric | 🔢 Count |
-|----------|----------|
-| ⭐ Total Stars Earned | 2.7k |
-| 🔁 Total Commits | 8.3k |
-| 🔧 Total PRs | 1.2k |
-| 🐞 Total Issues | 91 |
-| 📂 Contributed to (last year) | 8 repos |
-
----
-
-### 🧰 My Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-
 ---
 
 ### 📈 GitHub Stats
@@ -69,6 +29,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadhaa"/>
 </p>
 ---
+
+### 🧰 My Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+
+
 
 ### 📍 You can find me here
 
