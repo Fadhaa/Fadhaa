@@ -46,6 +46,6 @@
 ### 📍 You can find me here
 
 - 🌐 [GlobalStat Intelligence Solutions](https://globalstatsol.com)
-- 💼 LinkedIn: [linkedin.com/in/fadhaa](https://linkedin.com/in/fadhaa)
+- 💼 LinkedIn: [linkedin.com/in/fadhaa-ali-3a742a140/)
 
 ---
